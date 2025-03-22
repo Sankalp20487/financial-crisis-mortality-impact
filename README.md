@@ -82,7 +82,8 @@ The analysis found no statistically significant increase in heart disease deaths
 ---
 
 ##  Contributors  
-- **Sankalp Biswal**  
+- **Sankalp Biswal**
+- **Sanchi Gupta**  
 
 ---
 
